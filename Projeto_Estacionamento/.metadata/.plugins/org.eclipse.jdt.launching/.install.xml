@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<dirs>
+    <entry loc="/Applications/Eclipse.app/Contents/Eclipse/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.macosx.x86_64_21.0.4.v20240802-1551" stamp="1725521034000"/>
+    <entry loc="/Applications/Eclipse.app/Contents/Eclipse/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.macosx.x86_64_21.0.4.v20240802-1551/jre" stamp="1725521034000"/>
+    <entry loc="/Library/Java/JavaVirtualMachines/zulu-11.jdk/Contents/Home" stamp="1672845701000"/>
+    <entry loc="/Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home" stamp="1652142436877"/>
+    <entry loc="/Library/Java/JavaVirtualMachines/openlogic-openjdk-17.jdk/Contents/Home" stamp="1697627085000"/>
+    <entry loc="/Users/rocha/Library/Java/JavaVirtualMachines/corretto-17.0.7/Contents/Home" stamp="1682818429852"/>
+    <entry loc="/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home" stamp="1652142436998"/>
+    <entry loc="/Users/rocha/Library/Java/JavaVirtualMachines/corretto-17.0.10/Contents/Home" stamp="1710608651217"/>
+    <entry loc="/Library/Java/JavaVirtualMachines/jdk-11.0.15.jdk/Contents/Home" stamp="1646866659000"/>
+</dirs>
